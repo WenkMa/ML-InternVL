@@ -1,1 +1,1 @@
-# MSCA-InternVL
+# ML-InternVL
